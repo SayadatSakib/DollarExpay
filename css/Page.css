@@ -1,0 +1,20 @@
+#header{
+	margin-top: 0%;
+	background: rgba(0,0,0,.9);
+    border-bottom: 1px solid #bababa;
+    padding: 15px;
+}
+
+#body{
+    min-height: 400px;
+    margin-top: -1%;
+    background-color: #560c7b;
+}
+
+#footer{
+	min-height: 100px;
+    margin-top: 3%;
+    background-color: #666699;
+}
+
+
